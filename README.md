@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Erick
+#### Full Stack Web Developer
+![Full Stack Web Developer](https://res.cloudinary.com/dloxoi0t5/image/upload/v1699468978/brlsvxkkzbyyhekn5mll.png)
 
-<!--
-**gunminiho/gunminiho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Habilidades: REDUX / REACT / NODE.JS / SEQUELIZE / EXPRESS / POSTGRESQL / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en this page. 
+
+
+
+
